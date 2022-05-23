@@ -38,7 +38,7 @@
     "imagemin-mozjpeg": "9.0.0",
     "imagemin-pngquant": "9.0.2",
     "merge-stream": "2.0.0",
-    "minimatch": "3.1.2",
+    "minimatch": "5.1.0",
     "postcss": "8.4.14",
     "postcss-csscomb": "4.0.0",
     "postcss-flexbugs-fixes": "5.0.2",
