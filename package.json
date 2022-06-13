@@ -16,7 +16,7 @@
     "babel-cli": "6.26.0",
     "babel-preset-env": "1.7.0",
     "config-chain": "1.1.13",
-    "css-declaration-sorter": "6.2.2",
+    "css-declaration-sorter": "6.3.0",
     "fs": "0.0.1-security",
     "gulp": "4.0.2",
     "gulp-babel": "8.0.0",
