@@ -39,7 +39,7 @@
     "imagemin-pngquant": "9.0.2",
     "merge-stream": "2.0.0",
     "minimatch": "3.1.2",
-    "postcss": "8.4.14",
+    "postcss": "8.4.16",
     "postcss-csscomb": "4.0.0",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-normalize-charset": "5.1.0",
