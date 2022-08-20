@@ -45,7 +45,7 @@
     "postcss-normalize-charset": "5.1.0",
     "postcss-round-float": "1.0.0",
     "postcss-sort-media-queries": "4.2.1",
-    "sass": "1.53.0"
+    "sass": "1.54.5"
   },
   "browserslist": [
     "last 2 version",
